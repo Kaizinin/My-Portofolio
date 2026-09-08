@@ -22,8 +22,6 @@ Because this is a static site, no build step is needed. From the repository root
 python -m http.server 8000
 ```
 
-Then open [http://localhost:8000](http://localhost:8000) in a browser. You can also open `index.html` directly, but a local server is recommended for a closer production preview.
-
 ## Personalize
 
 Replace the clearly marked placeholder copy in `index.html`, update the email and social links, and swap the project placeholder cards with real project links and imagery when ready. Colors, spacing, and typography are centralized in the variables at the top of `styles.css`.
