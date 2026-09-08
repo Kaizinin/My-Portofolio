@@ -14,14 +14,6 @@ The site is publicly hosted with GitHub Pages. Click the link above to view the 
 - `styles.css` — responsive visual design, layout, and animations
 - `script.js` — mobile navigation, scroll reveal, and dynamic footer year
 
-## Preview locally
-
-Because this is a static site, no build step is needed. From the repository root, start any local HTTP server, for example:
-
-```bash
-python -m http.server 8000
-```
-
 ## Personalize
 
 Replace the clearly marked placeholder copy in `index.html`, update the email and social links, and swap the project placeholder cards with real project links and imagery when ready. Colors, spacing, and typography are centralized in the variables at the top of `styles.css`.
