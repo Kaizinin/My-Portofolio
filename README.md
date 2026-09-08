@@ -2,6 +2,12 @@
 
 A responsive, single-page portfolio website for Ryan Fazli Mawla built with semantic HTML, modern CSS, and vanilla JavaScript. It has no framework or external dependency, so it can be edited and hosted almost anywhere.
 
+## Live website
+
+**[Open Ryan Fazli Mawla's portfolio](https://kaizinin.github.io/My-Portofolio/)**
+
+The site is publicly hosted with GitHub Pages. Click the link above to view the latest version in a browser.
+
 ## Project structure
 
 - `index.html` — page content and accessible document structure
